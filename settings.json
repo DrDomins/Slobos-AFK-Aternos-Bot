@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+  "server": {drdomins.aternos.me
+    "ip": "drdomins.aternos.me",
+    "port":60100 ,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
